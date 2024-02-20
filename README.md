@@ -10,6 +10,9 @@ For those interested in applying deep learning techniques to the field of materi
 ### Skill attained
 
 . Knowledge on Machine Learning and Artificial Neural Networks basic concepts;
+
 . Knowledge on thin film characterization process;
+
 . Great development of Python skills;
+
 . Experience on apps automation with PyWin32 library.
